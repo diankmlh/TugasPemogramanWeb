@@ -1,0 +1,36 @@
+<table class="table" border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th scope="col">No</th>
+      <th scope="col">Nama</th>
+      <th scope="col">NIM</th>
+      <th scope="col">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Lee Leo</td>
+      <td>3337250002</td>
+      <td>iriosio@gmail.com</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Lee Sangwon</td>
+      <td>3337240003</td>
+      <td>leeeeesangwon@gmail.com</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Kim Leehan</td>
+      <td>3337240004</td>
+      <td>leecorydoras@gmail.com</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Lee Taesan</td>
+      <td>3337240008</td>
+      <td>TSskena@gmail.com</td>
+    </tr>
+  </tbody>
+</table>
